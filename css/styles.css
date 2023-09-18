@@ -6,6 +6,20 @@ body {
 
 header {
 }
+.nav {
+  font-size: medium;
+}
+.logo {
+  font-family: "Raleway", sans-serif;
+  color: #2e2f42;
+  font-size: larger;
+}
+.pathlogo {
+  color: #4d5ae5;
+}
+:hover {
+}
+
 .hero section {
 }
 p {
