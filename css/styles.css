@@ -27,20 +27,14 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
-.pathlogo {
+.pathlogo1 {
   color: #2e2f42;
 }
 .contact {
-  font-style: normal;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
   color: #434455;
 }
-:hover {
-}
+/*hero section*/
 
-.hero section {
-}
 p {
 }
 
@@ -53,9 +47,13 @@ h2 {
 h3 {
 }
 /*footer*/
-footer {
+.basement {
   background-color: #2e2f42;
-  color: ;
   font-size: ;
   font-weight: ;
+}
+.pathlogo1 {
+  color: #f4f4fd;
+}
+p {
 }
