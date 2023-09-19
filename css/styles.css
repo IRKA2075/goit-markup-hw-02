@@ -10,12 +10,11 @@ header {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color:#2e2f42;
-  
+  color: #2e2f42;
 }
 .logo {
   font-family: "Raleway", sans-serif;
-  color: #4d5ae5
+  color: #4d5ae5;
   font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
@@ -23,10 +22,10 @@ header {
   text-transform: uppercase;
 }
 .pathlogo {
-  color: #2E2F42;
+  color: #2e2f42;
 }
-.contact{
-font-style: normal;
+.contact {
+  font-style: normal;
 }
 :hover {
 }
