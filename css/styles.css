@@ -4,12 +4,6 @@ body {
   background-color: #ffffff;
 }
 /*header*/
-.nav:hover {
-  color: #404bbf;
-}
-.nav:focus {
-  color: #404bbf;
-}
 .about {
   font-size: 16px;
   font-weight: 500;
@@ -17,6 +11,13 @@ body {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
+.about:hover {
+  color: #404bbf;
+}
+.about:focus {
+  color: #404bbf;
+}
+
 .logo {
   font-family: "Raleway", sans-serif;
   color: #4d5ae5;
