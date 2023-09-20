@@ -39,7 +39,14 @@ body {
 /*hero section*/
 
 /*2 section*/
-
+.our-quality {
+  font-family: "Roboto", sans-serif;
+  color: #2e2f42;
+}
+.our-quality-text {
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+}
 /*footer*/
 .basement {
   background-color: #2e2f42;
