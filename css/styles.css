@@ -44,7 +44,6 @@ body {
 .header-contact {
 }
 .header-contact-list {
-  font-style: normal;
 }
 .header-contact-item {
 }
@@ -54,6 +53,7 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+  font-style: normal;
 }
 .header-contact-link:hover {
   color: #404bbf;
