@@ -62,22 +62,33 @@ body {
   color: #404bbf;
 }
 .hero {
+  background-color: #2e2f42;
 }
 .hero-title {
   font-size: 56px;
   font-weight: 700;
-  line-height: 0.07;
+  line-height: 1.07;
   letter-spacing: 0.02em;
   color: #ffffff;
+  text-align: center;
 }
 .hero-btn {
+  background-color: #4d5ae5;
   font-family: inherit;
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #ffffff;
+  cursor: pointer;
 }
+.hero-btn:hover {
+  color: #404bbf;
+}
+.hero-btn:focus {
+  color: #404bbf;
+}
+/*==================================*/
 .accomplishments {
 }
 .accomplishments-list {
@@ -88,29 +99,61 @@ body {
 }
 .accomplishments-item-text {
 }
+/*===========================*/
 .our-team {
+  background-color: #f4f4fd;
 }
 .our-team-title {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
 }
 .our-team-list {
+  background-color: #ffffff;
 }
 .our-team-item {
 }
 .our-team-subtitle {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 .our-team-item-text {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 .our-portfolio {
 }
 .our-portfolio-title {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
 }
 .our-portfolio-list {
 }
 .our-portfolio-item {
 }
 .our-portfolio-subtitle {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 .our-portfolio-text {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
 .our-portfolio-text {
 }
