@@ -55,7 +55,12 @@ body {
   letter-spacing: 0.02em;
   color: #434455;
 }
-
+.header-contact-link:hover {
+  color: #404bbf;
+}
+.header-contact-link:focus {
+  color: #404bbf;
+}
 .hero {
 }
 .hero-title {
