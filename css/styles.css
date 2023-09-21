@@ -3,22 +3,13 @@ body {
   color: #434455;
   background-color: #ffffff;
 }
-/*header*/
-.about {
-  font-size: 16px;
-  font-weight: 500;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
+
+.header {
 }
-.about:hover {
-  color: #404bbf;
-}
-.about:focus {
-  color: #404bbf;
+.header-navigation {
 }
 
-.logo {
+.header-logo {
   font-family: "Raleway", sans-serif;
   color: #4d5ae5;
   font-weight: 700;
@@ -27,19 +18,98 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
-.pathlogo1 {
+.header-pathlogo {
   color: #2e2f42;
 }
-
-.contact {
+.header-menu-list {
+}
+.header-menu-item {
+}
+.header-menu-link {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.header-contact {
+}
+.header-contact-list {
+}
+.header-contact-item {
+}
+.header-contact-link {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   color: #434455;
-  font-style: normal;
+}
+.header-contact-link:hover {
+  color: #404bbf;
+}
+.header-contact-link:focus {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #404bbf;
 }
 
-/*hero section*/
+.hero {
+}
+.hero-title {
+}
+.hero-btn {
+}
+.accomplishments {
+}
+.accomplishments-list {
+}
+.accomplishments-item {
+}
+.accomplishments-subtitle {
+}
+.accomplishments-item-text {
+}
+.our-team {
+}
+.our-team-title {
+}
+.our-team-list {
+}
+.our-team-item {
+}
+.our-team-subtitle {
+}
+.our-team-item-text {
+}
+.our-portfolio {
+}
+.our-portfolio-title {
+}
+.our-portfolio-list {
+}
+.our-portfolio-item {
+}
+.our-portfolio-subtitle {
+}
+.our-portfolio-text {
+}
+.our-portfolio-text {
+}
+.footer {
+  background-color: #2e2f42;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+.footer-pathlogo {
+  color: #f4f4fd;
+}
 
-/*2 section*/
-.our-quality {
+.accomplishments-subtitle {
   font-family: "Roboto", sans-serif;
   color: #2e2f42;
   font-weight: 500;
@@ -47,20 +117,9 @@ body {
   line-height: 1.2;
   letter-spacing: 0.02em;
 }
-.our-quality-text {
+.accomplishments-item-text {
   font-family: "Roboto", sans-serif;
   color: #434455;
   line-height: 1.5;
   letter-spacing: 0.02em;
-}
-/*footer*/
-.basement {
-  background-color: #2e2f42;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-}
-.pathlogo2 {
-  color: #f4f4fd;
 }
