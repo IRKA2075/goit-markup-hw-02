@@ -82,11 +82,10 @@ body {
   color: #ffffff;
   cursor: pointer;
 }
-.hero-btn:hover {
-  color: #404bbf;
-}
+.hero-btn:hover,
 .hero-btn:focus {
-  color: #404bbf;
+  background-color: #404bbf;
+  color: #fff;
 }
 /*==================================*/
 .accomplishments {
